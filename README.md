@@ -1,0 +1,2 @@
+# Bacteria
+ There are two types of bacteria: red and green . In one tick, each red turns into a green one, while each green turns into a green one and into a red one. The user enters the number of red (red : integer) and green (green : integer) bacteria, as well as the number of ticks (time : integer) (all variables are positive). The program calculates the maximum amount of time from the user's allotted time in which it can output results, and displays all possible values ​​of bacteria in this maximum time.
